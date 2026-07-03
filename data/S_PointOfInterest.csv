@@ -1,0 +1,710 @@
+id,nome,turistiche,storiche,metro,quartiere
+100872452,Circo Massimo,,,subway_entrance,RIPA
+246574147,Cavour (direzione Laurentina),,,subway_entrance,MONTI
+246661222,Garbatella,,,subway_entrance,GARBATELLA
+247716803,Piramide,,,station,MIANI
+248683055,Laurentina,,,subway_entrance,GIULIANO DALMATA
+248683058,Laurentina,,,subway_entrance,GIULIANO DALMATA
+248832679,Cavour (direzione Rebibbia/Jonio),,,subway_entrance,MONTI
+248834289,Repubblica,,,subway_entrance,CASTRO PRETORIO
+248834290,Repubblica,,,subway_entrance,CASTRO PRETORIO
+248834292,Termini,,,subway_entrance,CASTRO PRETORIO
+248834293,Termini Exit T3,,,subway_entrance,CASTRO PRETORIO
+248973535,Basilica San Paolo,,,subway_entrance,SAN PAOLO
+248973536,Basilica San Paolo,,,subway_entrance,SAN PAOLO
+253874144,Quattro Fontane,attraction,,,CASTRO PRETORIO
+256753101,Vittorio Emanuele,,,subway_entrance,ESQUILINO
+256753107,Porta Magica,,ruins,,ESQUILINO
+259064789,Catacombe di Priscilla,attraction,archaeological_site,,VERBANO
+259069917,"bunker ""Ferro di Cavallo""",attraction,,,VILLA ADA
+259261742,Fontana dell'Acqua Acetosa,attraction,,,VILLAGGIO OLIMPICO
+259555733,Catacombe di Sant'Agnese,,archaeological_site,,TRIESTE
+259576441,Fontana dei Libri,attraction,,,S. EUSTACHIO
+259578199,Basilica San Paolo,,,subway_entrance,SAN PAOLO
+259671299,Ninfeo di Egeria,attraction,archaeological_site,,VALLE DELLA CAFFARELLA - PARCO DELL'APPIA ANTICA
+259699754,Cannone di Mezzogiorno,attraction,,,TRASTEVERE
+260202184,Manzoni,,,subway_entrance,ESQUILINO
+260202199,Manzoni,,,subway_entrance,ESQUILINO
+260540147,Circo Massimo,,,subway_entrance,S. SABA
+260770350,Obelisco Matteiano,,monument,,CELIO
+261637801,Garbatella,,,subway_entrance,GARBATELLA
+280140654,Cornelia,,,subway_entrance,BOCCEA
+295223084,Monti Tiburtini,,,subway_entrance,MONTI TIBURTINI
+295227421,Tiburtina FS,,,subway_entrance,ITALIA
+295227613,Policlinico,,,subway_entrance,LA SAPIENZA UNIVERSITA'
+295227689,Castro Pretorio,,,subway_entrance,CASTRO PRETORIO
+295228586,Pietralata,,,subway_entrance,PIETRALATA
+295228832,Quintiliani,,,station,MONTI DI PIETRALATA
+295228833,Bologna,,,station,ITALIA
+295229728,Bologna,,,subway_entrance,ITALIA
+295263530,Fonte dell'Acqua Sacra,attraction,,,MONTE SACRO
+298116120,Acilia,,,station,ACILIA SUD
+301492700,Anagnina,,,subway_entrance,CINECITTA' EST
+302203473,Furio Camillo,,,subway_entrance,APPIO LATINO - ALBERONE
+302212403,Arco di Travertino,,,subway_entrance,ARCO DI TRAVERTINO
+305104811,Torre di Perna,attraction,,,MONTE DELLA CACCIA
+307566146,Cornelia,,,subway_entrance,BOCCEA
+307878083,Arco di Paolo V,,monument,,AURELIO
+315145650,Flaminio - Piazza del Popolo,,,subway_entrance,FLAMINIO
+332292142,Ostia Antica,,,station,STAGNI DI OSTIA
+332297384,Castel Fusano,,,station,LIDO DI CASTEL FUSANO
+332297712,Lido Centro,,,station,OSTIA LEVANTE
+356699285,Conca d'Oro,,,station,CONCA D'ORO
+365475871,Colle Palatino,attraction,,,CAMPITELLI
+379773457,Villa Romana - Via Pollenza,,archaeological_site,,CASAL TIDEI
+385021151,Villa e Cisterna delle Vignacce,,ruins,,PARCO DEGLI ACQUEDOTTI
+388100723,Lido Nord,,,station,OSTIA LEVANTE
+390841960,Cristoforo Colombo,,,station,LIDO DI CASTEL FUSANO
+401949921,Museo dell'Astronomia e Planetario,museum,,,EUR
+442111257,Villa di Massenzio,,ruins,,PARCO DELL'APPIA ANTICA
+444593290,Colli Albani - Parco Appia Antica,,,subway_entrance,APPIO LATINO - ALBERONE
+448098410,Cornelia,,,subway_entrance,BOCCEA
+452570567,Catacombe di San Sebastiano,attraction,catacomb,,PARCO DELL'APPIA ANTICA
+503717191,Castro Pretorio,,,subway_entrance,CASTRO PRETORIO
+561206601,EUR Palasport,,,subway_entrance,EUR
+561206602,EUR Palasport,,,subway_entrance,EUR
+563750841,Porta Furba - Quadraro,,,subway_entrance,QUADRARETTO
+563750844,Porta Furba - Quadraro,,,subway_entrance,QUADRARETTO
+563750846,Porta Furba - Quadraro,,,subway_entrance,QUADRARO
+602095458,Museo Storico dei Bersaglieri,museum,,,CASTRO PRETORIO
+618491090,Galeria,,archaeological_site,,S. MARIA DI GALERIA
+619379530,Castro Pretorio,,,subway_entrance,LA SAPIENZA UNIVERSITA'
+623380963,Libia,,,station,AFRICANO
+633021078,Cipro,,,subway_entrance,EROI TRIONFALE
+633021079,Cipro,,,subway_entrance,EROI TRIONFALE
+633021080,Cipro,,,subway_entrance,EROI TRIONFALE
+656532697,Galleria Spada,museum,,,REGOLA
+656829698,Museo di Roma,museum,,,PARIONE
+663736649,Spagna,,,subway_entrance,CAMPO MARZIO
+665301338,Ottaviano,,,subway_entrance,PRATI
+665314908,Ottaviano,,,subway_entrance,PRATI
+665314909,Ottaviano,,,subway_entrance,PRATI
+665314910,Ottaviano,,,subway_entrance,PRATI
+665314916,Ottaviano,,,subway_entrance,PRATI
+665314917,Ottaviano,,,subway_entrance,PRATI
+668018005,Lepanto,,,subway_entrance,PRATI
+668018010,Lepanto,,,subway_entrance,PRATI
+668018013,Lepanto,,,subway_entrance,PRATI
+672115902,Ottaviano,,,subway_entrance,PRATI
+672330123,Ottaviano,,,subway_entrance,PRATI
+677476578,Museo Nazionale Romano,museum,,,PONTE
+706793341,Palazzo Doria Pamphilj,museum,,,PIGNA
+766869078,Harry's Bar,,monument,,LUDOVISI
+767846683,Flaminio - Piazza del Popolo,,,subway_entrance,VALLE GIULIA
+767846684,Flaminio - Piazza del Popolo,,,subway_entrance,FLAMINIO
+767846685,Flaminio - Piazza del Popolo,,,subway_entrance,FLAMINIO
+767846770,Flaminio,,,subway_entrance,VALLE GIULIA
+801468268,Ponte Mammolo,,,subway_entrance,MONTE DEL PECORARO
+907635494,Marconi,,,subway_entrance,SAN PAOLO
+1130864404,Garbatella,,,subway_entrance,OSTIENSE
+1140142103,Vittorio Emanuele,,,subway_entrance,ESQUILINO
+1156359881,Vittorio Emanuele,,,subway_entrance,ESQUILINO
+1168036989,Piramide,,,subway_entrance,MIANI
+1168535700,Re di Roma,,,subway_entrance,TUSCOLANO
+1186543213,Policlinico,,,subway_entrance,LA SAPIENZA UNIVERSITA'
+1186543219,Policlinico,,,subway_entrance,ITALIA
+1186544719,Policlinico,,,subway_entrance,NOMENTANO
+1207359905,Barberini,,,subway_entrance,COLONNA
+1207359906,Barberini,,,subway_entrance,TREVI
+1207359907,Barberini,,,subway_entrance,LUDOVISI
+1207362549,Barberini,,,subway_entrance,TREVI
+1207362552,Barberini,,,subway_entrance,TREVI
+1208034381,Repubblica,,,subway_entrance,CASTRO PRETORIO
+1208034385,Repubblica,,,subway_entrance,CASTRO PRETORIO
+1219478580,San Giovanni,,,subway_entrance,TUSCOLANO
+1219478599,San Giovanni,,,subway_entrance,APPIO S. GIOVANNI
+1228100018,Cornelia,,,subway_entrance,BOCCEA
+1235753553,Battistini,,,subway_entrance,PINETA SACCHETTI
+1240910257,Barberini,,,subway_entrance,COLONNA
+1258879997,Furio Camillo,,,subway_entrance,FURIO CAMILLO
+1258880074,Furio Camillo,,,subway_entrance,FURIO CAMILLO
+1262595092,Ponte Lungo,,,subway_entrance,TUSCOLANO
+1262595135,Ponte Lungo,,,subway_entrance,APPIO S. GIOVANNI
+1262595309,Ponte Lungo,,,subway_entrance,APPIO S. GIOVANNI
+1262595627,Ponte Lungo,,,subway_entrance,APPIO S. GIOVANNI
+1266009880,Anagnina,,,subway_entrance,OSTERIA DEL CURATO
+1266009940,Anagnina,,,subway_entrance,OSTERIA DEL CURATO
+1280119807,Grotte Celoni,,,station,GROTTE CELONI
+1282622849,Baldo degli Ubaldi,,,subway_entrance,BALDO DEGLI UBALDI
+1282622850,Baldo degli Ubaldi,,,subway_entrance,BALDO DEGLI UBALDI
+1286920242,Monumento a Simon Bolivar,artwork,monument,,MONTE SACRO
+1297245348,Lepanto,,,subway_entrance,PRATI
+1297245351,Lepanto,,,subway_entrance,PRATI
+1297245354,Lepanto,,,subway_entrance,PRATI
+1297245357,Lepanto,,,subway_entrance,PRATI
+1297245358,Lepanto,,,subway_entrance,PRATI
+1303845491,Museo Pietro Canonica,museum,,,VILLA BORGHESE
+1305071783,Idrocronometro,attraction,,,CAMPO MARZIO
+1308364479,Furio Camillo,,,subway_entrance,FURIO CAMILLO
+1313285478,Vitinia,,,station,VITINIA
+1313285481,Tor di Valle,,,station,DECIMA
+1319005664,Rebibbia,,,subway_entrance,PONTE MAMMOLO
+1332292784,Baldo degli Ubaldi,,,subway_entrance,BALDO DEGLI UBALDI
+1340656195,Obelisco della Minerva,,monument,,PIGNA
+1379873992,Cornelia,,,subway_entrance,BOCCEA
+1381077891,Sant'Agnese/Annibaliano,,,station,TRIESTE
+1387899682,Sacrario delle Bandiere delle Forze Armate,museum,,,CAMPITELLI
+1391602798,San Giovanni,,,subway_entrance,APPIO S. GIOVANNI
+1391602799,San Giovanni,,,subway_entrance,APPIO S. GIOVANNI
+1391602800,San Giovanni,,,subway_entrance,APPIO S. GIOVANNI
+1394264038,Bologna,,,subway_entrance,ITALIA
+1394264039,Bologna,,,subway_entrance,ITALIA
+1394264040,Bologna,,,subway_entrance,ITALIA
+1394264041,Bologna,,,subway_entrance,ITALIA
+1394264042,Bologna,,,subway_entrance,ITALIA
+1427363758,Arco di Travertino,,,subway_entrance,ARCO DI TRAVERTINO
+1427368763,Numidio Quadrato Dir.Battistini,,,subway_entrance,QUADRARETTO
+1427368764,Numidio Quadrato,,,subway_entrance,QUADRARETTO
+1427368765,Numidio Quadrato,,,subway_entrance,QUADRARO
+1427368766,Numidio Quadrato,,,subway_entrance,QUADRARO
+1427370526,Numidio Quadrato,,,subway_entrance,QUADRARETTO
+1427370530,Numidio Quadrato,,,subway_entrance,QUADRARO
+1427373251,Lucio Sestio,,,subway_entrance,CECAFUMO
+1427373518,Giulio Agricola,,,subway_entrance,APPIO CLAUDIO
+1427373522,Giulio Agricola,,,subway_entrance,APPIO CLAUDIO
+1427373523,Giulio Agricola,,,subway_entrance,DON BOSCO
+1427373524,Giulio Agricola,,,subway_entrance,DON BOSCO
+1427374763,Subaugusta,,,subway_entrance,APPIO CLAUDIO
+1427374765,Subaugusta,,,subway_entrance,DON BOSCO
+1427376792,Cinecittà,,,subway_entrance,APPIO CLAUDIO
+1427376793,Cinecittà,,,subway_entrance,CINECITTA'
+1440405490,Galleria Borghese,museum,,,VILLA BORGHESE
+1447566610,Tempio di Augusto,,archaeological_site,,CAMPITELLI
+1448531164,Portico degli Dei Consenti,,ruins,,CAMPITELLI
+1453469565,Torrione di Via Prenestina,,archaeological_site,,PRENESTINO LABICANO
+1477822167,Spagna,,,subway_entrance,CAMPO MARZIO
+1510795500,Criptoportico Neroniano,,archaeological_site,,CAMPITELLI
+1564276117,Vittorio Emanuele,,,subway_entrance,ESQUILINO
+1564276124,Vittorio Emanuele,,,subway_entrance,ESQUILINO
+1564383515,Cisterna Romana,,archaeological_site,,VILLA GORDIANI
+1573148843,Piazzale delle Corporazioni,,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+1573148901,Casa di Diana,,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+1573148905,"Thermopolium (Reg. I, Is. II, 5)",,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+1573904451,Necropoli della Via Ostiense,attraction,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+1637802403,Ruderi di Coazzo,,ruins,,S. CLETO
+1662303156,Museo Universale,museum,,,TREVI
+1674754682,Chiostro del Bramante,museum,,,PONTE
+1709283551,Colosseo,,,subway_entrance,MONTI
+1716909150,Museo della Mente,museum,,,CASAL DEL MARMO
+1719260033,Bolognetta,,,station,BORGHESIANA
+1719260034,Borghesiana,,,station,BORGHESIANA
+1719260035,Due Leoni - Fontana Candida,,,station,DUE LEONI
+1719260036,Finocchio,,,station,BORGHESIANA
+1719260037,Graniti,,,station,FINOCCHIO
+1719260039,Torre Angela,,,station,TORRE ANGELA
+1719260040,Torre Gaia,,,station,GROTTE CELONI
+1719260041,Torrenova,,,station,GIARDINETTI
+1741619940,Spagna,,,subway_entrance,VILLA BORGHESE
+1743112241,Giardinetti,,,station,GIARDINETTI
+1743112280,Torre Maura,,,station,TORRE MAURA
+1743112292,Torre Spaccata,,,station,ALESSANDRINO
+1743120122,Gardenie,,,station,CENTOCELLE
+1743120146,Lodi,,,station,TUSCOLANO
+1743120163,Malatesta,,,station,PRENESTINO LABICANO
+1743120170,Mirti,,,station,CENTOCELLE
+1743137544,Alessandrino,,,station,TORRE SPACCATA
+1768595341,Re di Roma,,,subway_entrance,APPIO S. GIOVANNI
+1783958809,Resti villa romana,,archaeological_site,,PARCO DELLE SABINE
+1788363341,Jonio,,,station,TUFELLO
+1791417716,Anfiteatro castrense,,archaeological_site,,ESQUILINO
+1799134234,Tiburtina FS,,,subway_entrance,ITALIA
+1799299411,Quintiliani,,,subway_entrance,MONTI DI PIETRALATA
+1806035237,Explora,museum,,,VALLE GIULIA
+1832878829,Capanna Protostorica,,archaeological_site,,FIDENE
+1895350346,Sant'Agnese/Annibaliano,,,subway_entrance,AFRICANO
+1901107555,Libia,,,subway_entrance,VESCOVIO
+1908427809,Conca d'Oro,,,subway_entrance,CONCA D'ORO
+1924360583,EUR Palasport,,,subway_entrance,EUR
+1926239997,Mitreo delle Terme del Mitra,artwork,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+1938346422,Museo napoleonico di Roma,museum,,,PONTE
+2034547216,Spagna,,,subway_entrance,VILLA BORGHESE
+2047326301,Pietralata,,,subway_entrance,PIETRALATA
+2047326305,Monti Tiburtini,,,subway_entrance,MONTI TIBURTINI
+2073825295,Baldo degli Ubaldi,,,subway_entrance,BALDO DEGLI UBALDI
+2073825297,Baldo degli Ubaldi,,,subway_entrance,BALDO DEGLI UBALDI
+2073825299,Baldo degli Ubaldi,,,subway_entrance,BALDO DEGLI UBALDI
+2074634919,Villa di Livia,,archaeological_site,,PRIMA PORTA
+2112373866,Saba Parcheggio Villa Borghese,,,subway_entrance,LUDOVISI
+2122709063,Galleria Nazionale d'Arte Antica,museum,,,TREVI
+2151889949,Conca d'Oro,,,subway_entrance,CONCA D'ORO
+2151889950,Conca d'Oro,,,subway_entrance,CONCA D'ORO
+2184077390,Case romane del Celio,museum,,,CELIO
+2219217613,Primo Miracolo,attraction,,,FALCOGNANA-DIVINO AMORE
+2244843070,Casa di Goethe,museum,,,CAMPO MARZIO
+2263021094,Domus Augustana - Peristilio,,archaeological_site,,CAMPITELLI
+2291425588,Planetario di Roma,attraction,,,EUR
+2296913458,Stadio di Domiziano,museum,,,PARIONE
+2317242643,Statua della Minerva,,monument,,LA SAPIENZA UNIVERSITA'
+2327292450,Monti Tiburtini,,,subway_entrance,MONTI TIBURTINI
+2327292453,Monti Tiburtini,,,subway_entrance,MONTI TIBURTINI
+2391690485,"Magazzini Repubblicani (II,II,1-2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+2391690486,Piazzale della Vittoria,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+2391690555,Mosaici delle terme di Nettuno,attraction,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+2391690604,Caupona di Fortunato,,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+2396866901,Tracce Domus,,archaeological_site,,CINECITTA' EST
+2408805738,Manzoni,,,subway_entrance,ESQUILINO
+2408805739,Museo Storico della Liberazione,museum,,,ESQUILINO
+2415135651,Caposaldo A,,ruins,,PARCO DELL'APPIA ANTICA
+2417128984,Arco di Travertino,,,subway_entrance,COLLI ALBANI
+2430641315,Colli Albani - Parco Appia Antica,,,subway_entrance,COLLI ALBANI
+2430641316,Colli Albani - Parco Appia Antica,,,subway_entrance,APPIO LATINO - ALBERONE
+2430641317,Colli Albani - Parco Appia Antica,,,subway_entrance,COLLI ALBANI
+2430641318,Colli Albani - Parco Appia Antica,,,subway_entrance,COLLI ALBANI
+2460402810,EUR Fermi,,,subway_entrance,EUR
+2460402811,EUR Fermi,,,subway_entrance,EUR
+2460402812,EUR Fermi,,,subway_entrance,EUR
+2460402813,Santa Maria del Soccorso,,,subway_entrance,MONTE DEL PECORARO
+2470611743,Termini Exit T6,,,subway_entrance,ESQUILINO
+2518991633,tombe romane,,archaeological_site,,VALLE VESCOVO
+2518991634,"resti di una villa romana, cosidetta 'villa delle grotte'",,ruins,,VALLE VESCOVO
+2559396351,resti di una villa romana,,archaeological_site,,CASAL BRUCIATO
+2596766502,Tempio di Dia,,ruins,,COLLE DEL SOLE
+2596984266,Villa romana del Torcularium,,archaeological_site,,PARCO DE' MEDICI
+2597000964,Struttura in opera poligonale,,archaeological_site,,NUOVA FIERA DI ROMA
+2597011911,Necropoli di Ponte Galeria,,archaeological_site,,MALNOME
+2597017859,Vicus Alexandri,,archaeological_site,,VALCO S. PAOLO
+2597020460,Basilica Damasiana,,archaeological_site,,COLLE DEL SOLE
+2597075383,Tempio di Fortuna al I miglio,,ruins,,MARCONI
+2597081924,Tomba della Vaschetta,,archaeological_site,,VIGNA PIA
+2597082866,Tomba delle lesene,,archaeological_site,,VIGNA PIA
+2597101486,Villa romana dell’Infernaccio,,archaeological_site,,TENUTA DEI MASSIMI
+2597473712,Tomba alla Torre del Giudizio (Sepolcro romano di via Teodora sotto la Torre del Giudizio),,archaeological_site,,PIAN DUE TORRI
+2597513065,Ipogeo di Santa Passera,,archaeological_site,,PIAN DUE TORRI
+2602493588,Rudere,,ruins,,GIARDINETTI
+2602493589,Sepolcro su via Casilina,,ruins,,TORRE ANGELA
+2604862033,rilievo di Asclepio,,ruins,,RIPA
+2605150360,Villa di Massenzio,,ruins,,PARCO DELL'APPIA ANTICA
+2673999473,Ipogeo di Trebio Giusto,,archaeological_site,,APPIO LATINO - ALBERONE
+2674009611,Ipogeo degli Ottavi,,archaeological_site,,OTTAVIA
+2674141008,Basilica Hilariana,,archaeological_site,,CELIO
+2674255342,Ipogeo di via Livenza,,archaeological_site,,PINCIANO
+2674837030,Campo della Magna Mater,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+2683531122,Museo storico delle comunicazioni,museum,,,EUR
+2686006666,Mausoleo di Menenio Agrippa,,archaeological_site,,MONTE SACRO
+2957067329,Vigamus - Museo del Videogioco,museum,,,MAZZINI
+2957354282,Sepolcro Dorico,,archaeological_site,,PARCO DELL'APPIA ANTICA
+2957354283,Tomba dei Licinii,,archaeological_site,,PARCO DELL'APPIA ANTICA
+2957360886,Sepolcro dei figli di Sesto Pompeo,,archaeological_site,,PARCO DELL'APPIA ANTICA
+2957398896,Tomba di Septimia Galla,,archaeological_site,,PARCO DELL'APPIA ANTICA
+3095020681,Catacombe di Ponziano,,archaeological_site,,MONTEVERDE VECCHIO
+3132068492,Colombario dei Liberti di Augusto,,archaeological_site,,PARCO DELL'APPIA ANTICA
+3209751804,Fontanile Papa Benedetto XIV,,monument,,COLLI ANIENE
+3310964447,Museo Hendrik Christian Andersen,museum,,,FLAMINIO
+3451710542,Jonio,,,subway_entrance,TUFELLO
+3456447054,Museo Boncompagni Ludovisi per le arti decorative,museum,,,SALLUSTIANO
+3509729600,Bunker di Mussolini,attraction,,,NOMENTANO
+3512305861,San Pietro dal Buco della serratura,attraction,,,RIPA
+3594410888,Ipogeo degli Aureli,,archaeological_site,,ESQUILINO
+3612947728,San Giovanni,museum,,station,TUSCOLANO
+3625726733,Lodi,,,subway_entrance,TUSCOLANO
+3625726734,Malatesta,,,subway_entrance,PRENESTINO LABICANO
+3645077494,Gardenie,,,subway_entrance,CENTOCELLE
+3645077497,Gardenie,,,subway_entrance,CENTOCELLE
+3645094240,Malatesta,,,subway_entrance,PRENESTINO LABICANO
+3645124935,Sant'Agnese/Annibaliano,,,subway_entrance,TRIESTE
+3645129773,Bologna,,,subway_entrance,ITALIA
+3656919919,Lodi,,,subway_entrance,TUSCOLANO
+3656951452,Gardenie,,,subway_entrance,CENTOCELLE
+3656951453,Lodi,,,subway_entrance,TUSCOLANO
+3656951454,Lodi,,,subway_entrance,TUSCOLANO
+3656951455,Lodi,,,subway_entrance,TUSCOLANO
+3656951456,Lodi,,,subway_entrance,TUSCOLANO
+3656951457,Malatesta,,,subway_entrance,PRENESTINO LABICANO
+3656951458,Pigneto,,,subway_entrance,PIGNETO
+3656951459,Pigneto,,,subway_entrance,PIGNETO
+3658417486,Mura serviane,,ruins,,ESQUILINO
+3741688499,Mueso delle Forze Alleate Roma,museum,,,TRIESTE
+3751571464,Sant'Agnese/Annibaliano,,,subway_entrance,AFRICANO
+3761053209,Scuderie di Augusto,,archaeological_site,,REGOLA
+3761580107,Giacomo Guidi Arte Contemporanea,museum,,,PONTE
+3781542085,Villa di Lucio Vero,,archaeological_site,,TOMBA DI NERONE
+4078260590,Necropoli di Casal Bertone,,archaeological_site,,CASAL BERTONE
+4199867862,Catacombe dei Santi Marcellino e Pietro,,archaeological_site,,VILLA DE SANCTIS
+4250958790,Mercato di Monti,attraction,,,MONTI
+4258490090,Museo Criminologico,museum,,,PONTE
+4292016589,Real Academia de España,museum,,,TRASTEVERE
+4376017562,Museo Nazionale del Palazzo di Venezia,museum,,,PIGNA
+4394441939,Anagnina,,,subway_entrance,CINECITTA' EST
+4398812619,La Celsa,,archaeological_site,,LABARO
+4406771103,Colombario Costantiniano,,archaeological_site,,VALLE DELLA CAFFARELLA - PARCO DELL'APPIA ANTICA
+4423928191,Museo Nazionale degli Strumenti Musicali,museum,,,ESQUILINO
+4450594029,Miracle Water,attraction,,,TREVI
+4464465299,Camere di Sant’Ignazio al Collegio del Gesù,attraction,,,PIGNA
+4470099910,Museo Ebraico di Roma,museum,,,S. ANGELO
+4473463243,Mostra Leonardo da Vinci,museum,,,PARIONE
+4512661075,Museo archeologico,museum,,,VILLAGGIO OLIMPICO
+4567393091,Santuario siriaco al Gianicolo,,archaeological_site,,TRASTEVERE
+4585572435,Termini Exit T5,,,subway_entrance,ESQUILINO
+4610337594,Agli eroici figli di Ostia,,monument,,OSTIA ANTICA
+4616142689,Palazzo Cipolla,museum,,,COLONNA
+4617103889,Fox Gallery,museum,,,PIGNA
+4637408714,Palazzo umbertino del 1927,,monument,,MONTE MARIO
+4668892609,Sant'Agnese/Annibaliano,,,subway_entrance,TRIESTE
+4711620949,Museo Parigino,museum,,,COLONNA
+4718540501,Vickers V.798D Viscount,attraction,aircraft,,TENUTA S. ALESSIO
+4724510884,Bunker di Mussolini,attraction,,,NOMENTANO
+4729693089,Museo Da Vinci,museum,,,CAMPO MARZIO
+4754460814,Anagnina,,,subway_entrance,CINECITTA' EST
+4754734734,Cloaca Máxima,attraction,,,RIPA
+4770761426,San Giovanni,,,subway_entrance,TUSCOLANO
+4798279227,Domus Romane di Palazzo Valentini,museum,,,TREVI
+4798313725,Colonia felina di Torre Argentina,attraction,,,PIGNA
+4806269688,Monumento della Caravella,,monument,,CASTRO PRETORIO
+4907618679,Catacombe di Commodilla,,archaeological_site,,SAN PAOLO
+4958304874,Villa dei Quintili,attraction,,,PARCO DELL'APPIA ANTICA
+5032718322,Fonte di Anna Perenna,,archaeological_site,,PARIOLI
+5044706567,"Casa Museo di Luigi Pirandello, archivio e biblioteca",museum,,,NOMENTANO
+5070171858,Galleria nazionale d'arte antica di palazzo Corsini,museum,,,TRASTEVERE
+5107467923,Domus Severiana,attraction,,,CAMPITELLI
+5169979221,Termini,,,subway_entrance,ESQUILINO
+5169979223,Termini Exit T2,,,subway_entrance,ESQUILINO
+5209336529,Caseggiato degli Aurighi,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+5209343628,Terme dei Sette Sapienti,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+5216453777,Termini,,,station,ESQUILINO
+5261613024,Re di Roma,,,subway_entrance,TUSCOLANO
+5261613025,Re di Roma,,,subway_entrance,TUSCOLANO
+5261613026,Re di Roma,,,subway_entrance,APPIO S. GIOVANNI
+5261613027,Re di Roma,,,subway_entrance,APPIO S. GIOVANNI
+5261613044,Re di Roma,,,subway_entrance,TUSCOLANO
+5261613045,Re di Roma,,,subway_entrance,APPIO S. GIOVANNI
+5261613046,Re di Roma,,,subway_entrance,APPIO S. GIOVANNI
+5262016102,Colonna crucifera,,monument,,MONTEVERDE VECCHIO
+5262018890,Ricordo dell'incolumità di Roma,,monument,,MONTEVERDE VECCHIO
+5262021964,Santino,,monument,,MONTEVERDE VECCHIO
+5272949112,San Giovanni,,,subway_entrance,TUSCOLANO
+5279755345,Borghesiana,,,subway_entrance,BORGHESIANA
+5340598393,Esposizione permanente Fausto delle Chiaie,museum,,,CAMPO MARZIO
+5363014105,Re di Roma,,,subway_entrance,TUSCOLANO
+5383085694,Busto di Alessandro Magno,attraction,memorial,,LUDOVISI
+5383183092,Prima Scvola di Arte Edvcatrice,attraction,memorial,,LUDOVISI
+5383183093,"Buco con palla di cannone, battaglia del 1870.",attraction,ruins,,PINCIANO
+5383183094,Font Ludovisi,attraction,,,LUDOVISI
+5383230110,Sepolcro di Cornelia,attraction,tomb,,PINCIANO
+5383710021,Fontana del Bottino,attraction,,,CAMPO MARZIO
+5401056293,Ancora nell'edera,,monument,,MARCONI
+5405989440,Tratto di basolato romano della Via Latina,,ruins,,APPIO LATINO - ALBERONE
+5419455327,Tomba di Nerone,,archaeological_site,,TOMBA DI NERONE
+5444788634,Museo della Zecca di Roma,museum,,,AEROPORTO DELL'URBE
+5457006552,Sepolcro dei Veienti,,ruins,,PARCHI VOLUSIA E PAPACCI
+5509587196,Colombari di via Taranto,,archaeological_site,,TUSCOLANO
+5586787424,Aula Regia,,ruins,,CAMPITELLI
+5645495127,Museo della Memoria Giocosa,museum,,,PIGNETO
+5645513337,Museo di Patologia del libro,museum,,,MONTI
+5684866313,Conca d'Oro,,,subway_entrance,CONCA D'ORO
+5793676226,MSC Meraviglia,attraction,,,CASTEL ROMANO
+5793676240,Pezzi Da Oscar,attraction,,,CASTEL ROMANO
+5793676242,La guerra dei mondi,attraction,,,CASTEL ROMANO
+5793676248,Horror House,attraction,,,CASTEL ROMANO
+5793676249,Assassin's Creed,attraction,,,CASTEL ROMANO
+5793676250,Iscooter,attraction,,,CASTEL ROMANO
+5793677059,Cine Tour,attraction,,,CASTEL ROMANO
+5793677060,I-Fly,attraction,,,CASTEL ROMANO
+5793677061,Jurassic War,attraction,,,CASTEL ROMANO
+5826726788,Gladiator Museum,museum,,,PARIONE
+5860781285,La testa di San Valentino,attraction,relic,,RIPA
+5863168289,Gruppo Storico Romano,museum,,,ARDEATINO
+5914424241,Torre Spaccata,,,subway_entrance,TORRE SPACCATA
+5918364246,Torre Spaccata,,,subway_entrance,TORRE SPACCATA
+5918364247,Torre Spaccata,,,subway_entrance,ALESSANDRINO
+5918364248,Torre Spaccata,,,subway_entrance,ALESSANDRINO
+5923702159,Monumento al Fante d'Italia,,monument,,SCUOLA DI FANTERIA CESANO
+5940341387,Torre di Guardia su Cisterna,attraction,tower,,PARCO DEGLI ACQUEDOTTI
+5961492356,Torre Maura,,,subway_entrance,TORRE MAURA
+5961492357,Torre Maura,,,subway_entrance,TORRE MAURA
+5973826056,Palazzo Merulana - Fondazione Elena e Claudio Cerasi,museum,,,ESQUILINO
+5982874585,Lucio Sestio,,,subway_entrance,APPIO CLAUDIO
+6055511455,Torre Maura,,,subway_entrance,TORRE MAURA
+6106310744,Ipogeo di via Dino Compagni,,archaeological_site,,APPIO LATINO - ALBERONE
+6133428628,Mausoleo romano,,ruins,,PARCHI VOLUSIA E PAPACCI
+6133428629,Cisterna romana,,ruins,,PARCHI VOLUSIA E PAPACCI
+6133613636,Villa romana,,ruins,,GIUSTINIANA
+6133613637,Sepolcro romano,,ruins,,TOMBA DI NERONE
+6269274485,Sepolcro a camera,,monument,,PARCO DEGLI ACQUEDOTTI
+6404538385,Teatro di Pompeo,,archaeological_site,,PARIONE
+6427961191,Sepolcreto Ostiense,,archaeological_site,,SAN PAOLO
+6441045560,"Terme dei Cisiarii (II,II,3)",attraction,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+6475574631,Circo Maximo Experience,attraction,,,RIPA
+6484135186,palazzo Capponi Antonelli,attraction,,,REGOLA
+6497896682,Museo della Repubblica Romana e della memoria garibaldina,museum,,,TRASTEVERE
+6497917970,Galleria d'Arte Moderna,museum,,,COLONNA
+6498036950,Casa Museo Alberto Moravia,museum,,,DELLA VITTORIA
+6499298187,Museo di Storia della Medicina,museum,,,LA SAPIENZA UNIVERSITA'
+6499338101,Museo di Chimica Primo Levi,museum,,,LA SAPIENZA UNIVERSITA'
+6499816579,Museo Nazionale di Castel Sant’Angelo,museum,,,BORGO
+6500631681,Museo Erbario,museum,,,LA SAPIENZA UNIVERSITA'
+6500741290,Museo di Fisica,museum,,,LA SAPIENZA UNIVERSITA'
+6501541230,Museo astronomico e copernicano,museum,,,PARCO DI MONTE MARIO
+6563065029,Museo dei Frati Cappuccini e Cripta Ossario,museum,,,LUDOVISI
+6690408386,Vasca delle Tartarughe,attraction,,,OSTIA PONENTE
+6698453445,Deposito pleistocenico della Polledrara di Cecanibbio,,archaeological_site,,CASTEL DI GUIDO NORD
+6753014691,Villa cosiddetta di Plinio,,archaeological_site,,CASTEL FUSANO
+6799496743,Ponte di Nona,,archaeological_site,,PRATO FIORITO
+6832636585,Villa Trebazia,attraction,,,PARCO DELL'APPIA ANTICA
+6863923285,Muzeo nazionale delle paste alimentari,museum,,,FLAMINIO
+6897953038,Gardenie,,,subway_entrance,VILLINI SANTA MARIA
+6908586063,Area archeologica Vicus Caprarius: La Città dell’Acqua,,archaeological_site,,TREVI
+6981476861,Necropoli di La Monachina,,archaeological_site,,MONACHINA
+7012887885,Accademia di San Luca,museum,,,TREVI
+7023505139,Statua Sant Agostino,,monument,,OSTIA LEVANTE
+7072439134,San Leonardo da Porto Maurizio,,monument,,ACILIA SUD
+7090509832,Colonna viaria di San Cesareo de Appia,,monument,,CELIO
+7114360986,Museo Leonardo da Vinci,museum,,,BORGO
+7142449839,Matita rossa,,monument,,CASAL DEL MARMO
+7517183464,Tomba dei Cento Scalini,,monument,,PARCO DEGLI ACQUEDOTTI
+7556973802,Villa di Procoio Nuovo,,archaeological_site,,STAGNI DI OSTIA
+7557141455,Villa di Grotte di Piastra,,archaeological_site,,CASTEL PORZIANO
+7598776568,Sepolcro a via Marcellina,,archaeological_site,,TECNOPOLO
+7632593323,Bolognetta,,,subway_entrance,BORGHESIANA
+7707694027,Forte Braschi,museum,fort,,PINETO
+7737775312,Mausoleo,,archaeological_site,,SAXA RUBRA
+7741629568,Tomba di Marco Servilio Quarto,,archaeological_site,,PARCO DELL'APPIA ANTICA
+7801603695,San Giovanni,,,subway_entrance,TUSCOLANO
+7813900547,Manzoni,,,subway_entrance,ESQUILINO
+7876169064,Archivio museo storico di Fiume,museum,,,GIULIANO DALMATA
+7962489719,Monumento alle vittime delle foibe istriane,,monument,,GIULIANO DALMATA
+7995218465,Cave di Fosso del Drago,,archaeological_site,,PROCOIO
+8074581531,"Museo Anatomico ""E. Morelli""",museum,,,MONTEVERDE NUOVO
+8412438138,Colonna romana,,monument,,TRASTEVERE
+8499785317,"Domus di Apuleio (II,VIII,5)",,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+8554558030,Ninfeo di Caligola (Horti Lamiani),,archaeological_site,,ESQUILINO
+8554558031,Museo Ninfeo di Piazza Vittorio (Horti Lamiani),museum,,,ESQUILINO
+8599247532,villa di C. Furius Octavianus,,archaeological_site,,MAGLIANELLA DI SOTTO
+8625263700,Alessandrino,,,subway_entrance,TORRE SPACCATA
+8625263702,Alessandrino,,,subway_entrance,ALESSANDRINO
+8626139091,Fontana della Botte,attraction,,,TRASTEVERE
+8695734985,Scatola Archeologica,museum,,,RIPA
+8759041967,Elettromotrice STEFER 82,attraction,locomotive,,CINECITTA' EST
+8789982819,Muro della Repubblica Romana,,monument,,TRASTEVERE
+8854537905,Divorum,,archaeological_site,,PIGNA
+8866710875,Villa della Longarina,,archaeological_site,,GIARDINO DI ROMA
+8868110683,Villa dei Centroni,,archaeological_site,,CENTRONI - VALLE MARCIANA
+8894870422,Tribuna Monte Mario,attraction,,,FORO ITALICO
+8894872219,Curva Nord,attraction,,,FORO ITALICO
+8894893317,Curva Sud,attraction,,,FORO ITALICO
+8894893417,Tribuna Tevere,attraction,,,FORO ITALICO
+8927293913,Terme di Porta Marina,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+8927332517,"Regio IV - Insula VIII - Edificio IV,VIII,5",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+8927475418,Terme delle Sei Colonne,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+8985503842,Malatesta,,,subway_entrance,PRENESTINO LABICANO
+9007845910,Ennio Morricone,,monument,,CIMITERO LAURENTINO
+9051635779,Antonio Gramsci,attraction,tomb,,TESTACCIO
+9082299075,"Terme del Mitra (I,XVII,2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+9083527814,Cinecittà,,,subway_entrance,CINECITTA'
+9083527815,Cinecittà,,,subway_entrance,APPIO CLAUDIO
+9212583891,Parco di Centocelle,,,subway_entrance,CENTOCELLE
+9229855880,Area Archeologica Monticchio,,archaeological_site,,OLGIATA
+9244137967,Mitreo Barberini,,archaeological_site,,TREVI
+9267173281,EUR Magliana,,,station,EUR
+9267173299,Basilica San Paolo,,,subway_entrance,SAN PAOLO
+9280732364,Museo delle Memorie,museum,,,CORVIALE
+9311336647,"Caseggiato del Cane Monnus (II,I,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+9311460884,"Fullonica II,XI,1",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+9362375698,Percy Bysshe Shelley,attraction,tomb,,TESTACCIO
+9362375703,John Keats,attraction,tomb,,TESTACCIO
+9366038161,Museo Storico dei Vigili del Fuoco,museum,,,TESTACCIO
+9381507378,Vittorio Emanuele,,,subway_entrance,ESQUILINO
+9412352725,Cisterna Fienile,,archaeological_site,,VALLE DELLA CAFFARELLA - PARCO DELL'APPIA ANTICA
+9458149007,Subaugusta,,,subway_entrance,APPIO CLAUDIO
+9458149008,Subaugusta,,,subway_entrance,DON BOSCO
+9460745511,"Domus della Fortuna Annonaria (V,II,8)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+9463852529,MIAC - Museo Italiano dell’Audiovisivo e del Cinema,museum,,,CINECITTA'
+9502323081,Privata Traiani Domus,,archaeological_site,,RIPA
+9563207249,Museo della Cucina e Biblioteca,museum,,,CAMPITELLI
+9595019792,Sepolcro Baccelli,,archaeological_site,,ARCO DI TRAVERTINO
+9595019794,Basilica di Santo Stefano,,archaeological_site,,ARCO DI TRAVERTINO
+9632419646,Ninfeo della Lucchina,,archaeological_site,,PALMAROLA
+9632456766,Tumulo della Vaccareccia,,archaeological_site,,VACCARECCIA
+9647743491,Termini,,,subway_entrance,CASTRO PRETORIO
+9676942017,Arco dei Banchi,attraction,,,PONTE
+9724092455,Bolognetta,,,subway_entrance,BORGHESIANA
+9738039522,Vespa Museum,museum,,,MONTI
+9738242080,M.A.U.Mi. Museo di Arte Urbana delle Migrazioni,museum,,,TOR PIGNATTARA
+9826250159,Museo dell'Arte Salvata,museum,,,CASTRO PRETORIO
+9878457664,Museo Vite di IMI,museum,,,MONTI
+9897736896,Gardenie,,,subway_entrance,VILLINI SANTA MARIA
+10028877935,Pagus dell'Acqua Traversa,,archaeological_site,,CORTINA D'AMPEZZO
+10033617630,Villa Imperiale di Tor Paterno,,archaeological_site,,CASTEL PORZIANO
+10074889581,Museo di scultura antica Giovanni Barracco,museum,,,PARIONE
+10077971321,Ville del Suburbio di Ostia,,archaeological_site,,STAGNI DI OSTIA
+10082765531,Sala Del Carroccio,attraction,,,CAMPITELLI
+10100638855,"Piccolo Mercato (I,VIII,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10106139087,"Caseggiato I,IX,2",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10106139088,"Caseggiato del Larario (I,IX,3)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10106139089,"Caseggiato I,VIII,8",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10106158629,"Caseggiato dei Misuratori del Grano (Ostia Antica R1,VII,1-2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10111875135,"Horrea di Hortensius (V,XII,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10111875136,"Sacello II,II,4",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10178773155,Museo delle illusioni,museum,,,ESQUILINO
+10215257717,Palazzo Bonaparte,museum,,,PIGNA
+10274653605,"Caseggiato I,XIV,4",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10274667191,"Horrea dei Mensores (I,XIX,4)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10274667192,"Caseggiato con Fornace (I,XVII,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10274668958,"Terme del bagnino Buticosus (I,XIV,8)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10312862776,Palestra delle terme (RE G. II. INS IV.),,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10313028761,"Molino del Silvano (Reg. I, Is. III, 1-2)",,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10313028762,"Palestra delle Terme del Foro (Reg. I, XII, 6-10)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10558410752,"Terme del Nuotatore (V,X,3)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10596617672,Velocità Luce,attraction,,,CASTEL ROMANO
+10744930206,Tiburtina FS,,,subway_entrance,ITALIA
+10753797924,Libia,,,subway_entrance,AFRICANO
+10753797956,Libia,,,subway_entrance,VESCOVIO
+10753797957,Libia,,,subway_entrance,VESCOVIO
+10753797958,Libia,,,subway_entrance,VESCOVIO
+10824586967,Porta Neola,,archaeological_site,,S. VITTORINO
+10824599202,Nymphaeum of Paris,,archaeological_site,,S. VITTORINO
+10873805527,"Portico degli Archi Trionfali (V,XI,7)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805528,"Tempio Collegiale tra via degli Augustali e Decumano (V,XI,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805529,"Santuario della Bona Dea (V,X,2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805530,"Domus su via deglia Augustali (V,X,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805531,"Mitreo del felicissimo (V,IX,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805532,"Domus del Pozzo (V,III,3)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805533,"Caseggiato dei Lottatori (V,III,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805534,"Caseggiato tra via Semita dei Cippi e via della Domus del Pozzo (V,II,2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805535,"Terme del Filosofo (V,II,7)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805536,"Domus del Protiro (V,II,5)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805537,"Caseggiato a sud della Domus del Protiro (V,II,3)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805538,"Caseggiato tra via della Fortuna Annonaria e via dell'Invidioso (V,IV,2-3)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805539,"Insula dell'Invidioso (V,V,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805540,"Terme dell'Invidioso (V,V,2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805541,"Caseggiato del Sole (V,VI,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805542,"Mitreo dei Serpenti (V,VI,6)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10873805543,"Collegio degli Augustali (V,VII,2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10878076642,"Cisterna di Porta Marina (IV,VIII,2)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10878076643,"Ninfeo di Porta Marina (IV,VIII,3)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10878076644,"Tempio della Bona Dea (IV,VIII,3)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10878486962,"Loggia di Cartilio Poplicola (IV,IX,1)",,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+10904958845,Laurentina,,,subway_entrance,GIULIANO DALMATA
+10921413962,GAMM - Museo del Videogioco,museum,,,CASTRO PRETORIO
+10937793525,Museo delle Civiltà,museum,,,EUR
+10937793526,Museo delle Civiltà - Sezione Arti e tradizioni popolari,museum,,,EUR
+10979702586,Sepolcro di Marco Pompeo Maggiore,,archaeological_site,,FIORANELLO - PARCO DELL'APPIA ANTICA
+10979702944,Sepolcro di Caio Valerio Sinerote,,archaeological_site,,FIORANELLO - PARCO DELL'APPIA ANTICA
+10979702945,sepolcro romano,,archaeological_site,,FIORANELLO - PARCO DELL'APPIA ANTICA
+11204178544,Museo Storico Liberiano,museum,,,MONTI
+11204178550,Museo del Tesoro Lateranense,museum,,,MONTI
+11206128006,Museo-Atelier Canova-Tadolini,museum,,,CAMPO MARZIO
+11208757794,Hans von Marées,attraction,tomb,,TESTACCIO
+11234142608,Museo Civico di Zoologia,museum,,,VILLA BORGHESE
+11267550356,Locomotiva FS 740.436,attraction,locomotive,,CASAL BERTONE
+11279149884,Villa Metro Anagnina,,archaeological_site,,CINECITTA' EST
+11305181097,Domus di Vigna Guidi,,archaeological_site,,S. SABA
+11359857923,Ninfeo della Pioggia,attraction,,,CAMPITELLI
+11495723024,Catacombe di Santa Felicita,,archaeological_site,,SALARIO
+11509026537,Museo della Forma Urbis,museum,,,CELIO
+11543268058,Tor Vergata,,archaeological_site,,TOR VERGATA UNIVERSITA'
+11543268059,Museo APR – Archeologia Per Roma,museum,,,TOR VERGATA UNIVERSITA'
+11559152851,Next Museum,museum,,,PINCIANO
+11598771774,EUR Fermi,,,station,EUR
+11598771782,Laurentina,,,station,GIULIANO DALMATA
+11598771784,EUR Palasport,,,station,EUR
+11598851596,Ninfeo Bella Cenci,,archaeological_site,,TORRENOVA
+11599863852,Colosseo,,,station,MONTI
+11599863855,Castro Pretorio,,,station,LA SAPIENZA UNIVERSITA'
+11599863856,Policlinico,,,station,LA SAPIENZA UNIVERSITA'
+11599863857,Cavour,,,station,MONTI
+11599880399,Circo Massimo,,,station,RIPA
+11601461055,Ponte Mammolo,,,station,MONTE DEL PECORARO
+11601542986,Monti Tiburtini,,,station,MONTI TIBURTINI
+11601542991,Rebibbia,,,station,PONTE MAMMOLO
+11601542998,Pietralata,,,station,PIETRALATA
+11601543001,Tiburtina FS,,,station,ITALIA
+11601543018,Santa Maria del Soccorso,,,station,MONTE DEL PECORARO
+11601681552,Catacombe di San Zotico,,archaeological_site,,BORGHESIANA
+11799594217,Tomba degli Archetti,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+11799779729,Casa di Diana,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+11933283813,Tempio di Marte Ultore,,archaeological_site,,MONTI
+11947421801,Piramide,,,subway_entrance,MIANI
+11968350253,Latrina presso le Terme del Foro,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+12048060025,Madonnina,,monument,,FARNETO
+12052719807,Stadio di Domiziano,museum,,,PARIONE
+12075935326,Pietra Pertusa Mithraeum,,archaeological_site,,PIETRA PERTUSA
+12076623088,Numidio Quadrato,,,subway_entrance,QUADRARO
+12076623089,Numidio Quadrato,,,subway_entrance,QUADRARETTO
+12115714405,Cippo in marmo con Fasci Littori,,monument,,CASTEL FUSANO
+12140483881,Sepolcro dei Pancrazi,,archaeological_site,,ARCO DI TRAVERTINO
+12181730354,Antico Deposito Ghiaccio Birra Peroni,,monument,,OSTIA PONENTE
+12181805310,Osteria di Centocelle,,archaeological_site,,PARCO DI CENTOCELLE
+12237572357,Ultima Duna di Ostia,attraction,,,OSTIA LEVANTE
+12244367776,Acilia Sud - Dragona,,,station,SAPONARA
+12248413804,Stella Polare,,,station,OSTIA LEVANTE
+12310454756,Museo delle Fosse Ardeatine,museum,,,TOR MARANCIA
+12343185884,Garbatella,,,station,GARBATELLA
+12376449856,Museo del Corso,museum,,,TREVI
+12383614321,Porta Laurentina necropolis,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+12385251959,Temple of Bellona,,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+12385251964,Guild house of the hastiferi,,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+12385251965,Shrine of Attis,,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+12386362580,Villa di Tor Vergata,,ruins,,GIARDINETTI
+12386774310,Villa romana del Parco di Barcaccia,,archaeological_site,,NUOVA TOR VERGATA
+12386777623,Villa rustica di Casa Calda,,ruins,,MISTICA
+12387148405,Villa a Sant'Alessandro (sito A),,archaeological_site,,S. ALESSANDRO - PRATOLUNGO
+12387278683,tomba romana,,archaeological_site,,TORRE MAURA
+12387377011,Sepolcro di Viale Filarete,,ruins,,TOR PIGNATTARA
+12387377014,cisterna romana,,ruins,,TORRENOVA
+12387387979,Ninfeo Bella Cenci,,archaeological_site,,TORRENOVA
+12387394241,Villa romana detta dei Caminetti,,ruins,,TORRENOVA
+12484449287,Aula Gotica,attraction,,,CELIO
+12504263090,Stanze di Santa Brigida,museum,,,REGOLA
+12544253674,Schola Praeconum (Scuola degli Araldi),,archaeological_site,,CAMPITELLI
+12571509623,Mausoleo di Aquilio Regolo,,archaeological_site,,CASAL BRUCIATO
+12585439955,Giordano Bruno monument,,monument,,PARIONE
+12601265068,Quintiliani,,,subway_entrance,MONTI DI PIETRALATA
+12648707297,"CIL 06, 09545",,monument,,PARCO DELL'APPIA ANTICA
+12648715904,Roman tomb,,archaeological_site,,FIORANELLO - PARCO DELL'APPIA ANTICA
+12674415017,Domus di Lucio Licinio Sura,,archaeological_site,,MONTI
+12674448183,domus annorum,,archaeological_site,,MONTI
+12676150816,Torre Maura,,,subway_entrance,TORRE MAURA
+12701919771,Resti di Mura Serviane,,ruins,,COLONNA
+12707172364,Museo Nazionale Romano di Palazzo Massimo,museum,,,CASTRO PRETORIO
+12725805504,Museo Agostinelli,museum,,,DRAGONA
+12760725789,sepolcro di Marco Antonio Anzio Lupo,,archaeological_site,,TOR DI VALLE
+12800612314,FAO,attraction,,,VALLE DELLA CAFFARELLA - PARCO DELL'APPIA ANTICA
+12806720460,Resti del Tempio di Giove,,ruins,,PARCO DELL'APPIA ANTICA
+12813664034,Horrea Piperataria,,archaeological_site,,CAMPITELLI
+12887127987,Cisterna romana a Villa Spada,,ruins,,VILLA SPADA
+13028360534,ACEA Heritage,museum,,,MIANI
+13042638460,Baldo degli Ubaldi,,,subway_entrance,BALDO DEGLI UBALDI
+13054451679,Aula del Buon Pastore,,ruins,,PARCO ARCHEOLOGICO OSTIA ANTICA
+13054673400,Basilica costantiniana di Ostia,,archaeological_site,,PARCO ARCHEOLOGICO OSTIA ANTICA
+13077719029,Tomba di Marco Nonio Macrino,,archaeological_site,,PIANA DEL TEVERE
+13106005601,Museo Condominiale di Tor Marancia,museum,,,TOR MARANCIA
+13109049417,Ottaviano,,,station,PRATI
+13116299992,Casa dei Cesaroni,attraction,,,PIGNETO
+13119048948,Domus Aurea,,archaeological_site,,MONTI
+13147707370,Museo della Scuola Romana,museum,,,NOMENTANO
+13180241736,Cornelia,,,station,BOCCEA
+13183475739,Spagna,,,station,CAMPO MARZIO
+13183475742,Manzoni,,,station,ESQUILINO
+13183496361,Re di Roma,,,station,TUSCOLANO
+13183507434,Ponte Lungo,,,station,TUSCOLANO
+13183513091,Vittorio Emanuele,,,station,ESQUILINO
+13183516521,Barberini,,,station,TREVI
+13183516522,Lepanto,,,station,PRATI
+13183518903,Flaminio,,,station,VALLE GIULIA
+13183520675,Repubblica,,,station,CASTRO PRETORIO
+13183609942,Furio Camillo,,,station,FURIO CAMILLO
+13183632209,Colli Albani,,,station,COLLI ALBANI
+13183668822,Valle Aurelia,,,station,VALLE AURELIA
+13183676216,Cipro,,,station,EROI TRIONFALE
+13183676217,Arco di Travertino,,,station,ARCO DI TRAVERTINO
+13183692877,Baldo degli Ubaldi,,,station,BALDO DEGLI UBALDI
+13183692878,Numidio Quadrato,,,station,QUADRARO
+13183706724,Porta Furba/Quadraro,,,station,QUADRARETTO
+13183722198,Cinecittà,,,station,APPIO CLAUDIO
+13183724021,Anagnina,,,station,CINECITTA' EST
+13255365659,Battistini,,,station,PINETA SACCHETTI
+13256178943,Museo Missionario di Propaganda Fide,museum,,,COLONNA
+13256187380,Presepio monumemtale napoletano del '700,museum,,,CAMPITELLI
+13261731541,Colosseo,,,subway_entrance,MONTI
+13264779030,Museo delle Mura,museum,,,CELIO
+13296452566,Museo della Basilica,museum,,,ESQUILINO
+13381283680,Porta Metronia,,,station,APPIO S. GIOVANNI
+13388460819,Porta Metronia,,,subway_entrance,APPIO S. GIOVANNI
+13395745643,Ponte Lungo,,,subway_entrance,TUSCOLANO
+13460785710,Museo Nazionale Etrusco di Villa Giulia,museum,,,VALLE GIULIA
+13479680016,Museo Nazionale Romano - Terme di Diocleziano,museum,,,CASTRO PRETORIO
+13479683559,Musiba - Museo di Scienze Naturali dei bambini,museum,,,ITALIA
+13482999691,Arco presso Santi Urbano e Lorenzo,,ruins,,PRIMA PORTA
+13483009525,tomba romana,,archaeological_site,,SAXA RUBRA
+13500721400,Cippo Italcable,,monument,,LIDO DI CASTEL FUSANO
+13589382568,Porta Metronia,,,subway_entrance,APPIO S. GIOVANNI
